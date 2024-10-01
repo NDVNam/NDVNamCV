@@ -27,7 +27,7 @@ section > .container-fluid {
 /* PHẦN BANNER */
 #banner {
   position: relative;
-  background-image: url(../images/banner.jpg);
+  background-image: url(https://github.com/NDVNam/NDVNamCV/blob/master/images/banner.jpg?raw=true);
   width: 100%;
   height: 650px;
   background-size: cover;
