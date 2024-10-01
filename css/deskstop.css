@@ -49,19 +49,19 @@ section > .container-fluid {
 }
 /* MY AVT */
 .avt-default {
-  height: 260px;
-  width: 240px;
+  position:absolute;
+  top:50%;
+  right:50%;
+  height: 110px;
+  width: 120px;
   border-radius: 50%;
-  padding: 10px;
-  background-color: #ffff;
-}
-.avt-banner {
-  position: absolute;
-  display: inline-block;
-  bottom: -20%;
-
-  right: 50%;
   transform: translate(50%, -50%);
+
+}
+.nav-avt {
+  position: relative;
+  padding:20px 98px;
+  border:none;
 }
 
 /* PHẦN NAV BAR */
